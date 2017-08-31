@@ -20,3 +20,9 @@ https://eagereyes.org/blog/2017/joy-plots
 Birth rate data taken from [The Human Fertility Database](http://www.humanfertility.org/)
 
 
+
+License
+---
+CC0
+
+Use in any way you please
